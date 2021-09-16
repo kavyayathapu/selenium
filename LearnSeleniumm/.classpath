@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Seleniumsoftware09082021/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Seleniumsoftware09082021/log4j.jar-20210902T145026Z-001/log4j.jar/log4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
